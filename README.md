@@ -1,1 +1,1 @@
-Recipes websites to shou what ive learner in odin project
+Recipes websites to should what ive learner in odin project
